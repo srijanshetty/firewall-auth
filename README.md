@@ -1,3 +1,7 @@
 # Introduction
 
-IITK noproxy connection script
+- IITK noproxy connection script
+
+# Usage
+
+ python firewall-auth.py
